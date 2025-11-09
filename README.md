@@ -1,4 +1,4 @@
-# 🎮 Bullet Frenzy
+# 🎮 Shooter Rage
 
 **Bullet Frenzy** is a 3D arcade-style shooter built with **Python + PyOpenGL + GLUT**.  
 You’re dropped into a colorful arena where enemies chase you nonstop — survive by shooting them down while dodging attacks and avoiding wasted bullets!  
